@@ -1,1 +1,0 @@
-# Cookbook TESTING doc
