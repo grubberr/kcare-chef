@@ -4,7 +4,7 @@ maintainer_email 'rsabitov@cloudlinux.com'
 license 'Apache-2.0'
 description 'Installs/Configures Kernelcare'
 
-version '0.1.8'
+version '0.1.9'
 chef_version '>= 14.0'
 source_url 'https://github.com/grubberr/kcare-chef'
 issues_url 'https://github.com/grubberr/kcare-chef/issues'
